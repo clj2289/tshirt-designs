@@ -16,7 +16,10 @@
    width="1000"
    height="1000"
    viewBox="0 0 1000 1000"
-   sodipodi:docname="soorta-logo.svg"><metadata
+   sodipodi:docname="soorta-logo.svg"
+   inkscape:export-filename="/Users/clj2289/tshirt-designs/soorta-logo.png"
+   inkscape:export-xdpi="924.21997"
+   inkscape:export-ydpi="924.21997"><metadata
      id="metadata8"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
@@ -88,9 +91,9 @@
      inkscape:window-height="755"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="261.76001"
-     inkscape:cy="549.75361"
+     inkscape:zoom="1.6930475"
+     inkscape:cx="201.74202"
+     inkscape:cy="541.67362"
      inkscape:window-x="4"
      inkscape:window-y="1"
      inkscape:window-maximized="1"
@@ -259,22 +262,22 @@
 <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:LeckerliOne;-inkscape-font-specification:'LeckerliOne, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="145.60001"
-       y="-378.40002"
+       x="147.20001"
+       y="-376.80002"
        id="text4834"
        sodipodi:linespacing="125%"
        transform="scale(1,-1)"><tspan
          sodipodi:role="line"
          id="tspan4838"
-         x="145.60001"
-         y="-378.40002">est.</tspan></text>
+         x="147.20001"
+         y="-376.80002">est.</tspan></text>
 <rect
        style="opacity:0.07000002;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98769232"
        id="rect4840"
        width="201.60001"
        height="202.39984"
-       x="52.799999"
-       y="-508.80005"
+       x="382.68146"
+       y="-449.68152"
        transform="scale(1,-1)"
        inkscape:export-xdpi="924.21997"
        inkscape:export-ydpi="924.21997" /></g></svg>
